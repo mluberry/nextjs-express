@@ -1,6 +1,6 @@
 # Next.js + Express
 
-> Next.js project using Spotify API.
+> Next.js project using Spotify API ([See demo](https://next-express-klelutfcnm.now.sh/)).
 
 ## Build Setup
 
@@ -15,5 +15,6 @@ $ npm run dev
 ## Docs
 
 * [Next.js](https://zeit.co/blog/next)
+* [Now](https://zeit.co/now)
 * [React](https://facebook.github.io/react/)
 * [Express](http://expressjs.com/)
